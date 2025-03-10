@@ -23,5 +23,6 @@
     <Text Include="info.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="id.txt" />
   </ItemGroup>
 </Project>

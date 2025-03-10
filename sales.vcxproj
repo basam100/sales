@@ -130,6 +130,7 @@
     <ClCompile Include="sales.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="id.txt" />
     <Text Include="info.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
